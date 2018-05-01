@@ -1,4 +1,4 @@
-CheckCash Core staging tree 1.0.0.3
+CheckCash Core staging tree 1.0.3
 ===============================
 
 What is CheckCash?
