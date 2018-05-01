@@ -1,0 +1,2 @@
+usr/local/bin/checkcashd usr/bin
+usr/local/bin/checkcash-cli usr/bin

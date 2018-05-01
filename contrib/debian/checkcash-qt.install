@@ -1,0 +1,6 @@
+usr/local/bin/checkcash-qt usr/bin
+share/pixmaps/checkcash32.xpm usr/share/pixmaps
+share/pixmaps/checkcash16.xpm usr/share/pixmaps
+share/pixmaps/checkcash128.png usr/share/pixmaps
+debian/checkcash-qt.desktop usr/share/applications
+debian/checkcash-qt.protocol usr/share/kde4/services/

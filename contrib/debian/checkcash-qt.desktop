@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CheckCash
+Comment=CheckCash P2P Cryptocurrency
+Comment[fr]=CheckCash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CheckCash, eşten eşe kriptografik sanal para birimi
+Exec=checkcash-qt %u
+Terminal=false
+Type=Application
+Icon=checkcash128
+MimeType=x-scheme-handler/checkcash;
+Categories=Office;Finance;
